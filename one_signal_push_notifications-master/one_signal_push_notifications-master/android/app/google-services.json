@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011493461226",
+    "project_id": "onesignalnotification-bd773",
+    "storage_bucket": "onesignalnotification-bd773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011493461226:android:c10069654c3ab737f8cb93",
+        "android_client_info": {
+          "package_name": "com.example.notification_with_onesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ywP0pFBiT6G7QO9xxKSVeGmUCc71y4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
